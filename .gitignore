@@ -8,3 +8,13 @@ next-env.d.ts
 
 # Environment & Secrets
 .env
+.env.*
+!.env.example
+
+# Build output
+dist/
+build/
+
+# Cache
+.cache/
+*.cache
