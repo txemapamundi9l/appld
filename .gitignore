@@ -18,3 +18,13 @@ build/
 # Cache
 .cache/
 *.cache
+.turbo/
+.eslintcache
+
+# Logs
+logs/
+*.log*
+
+# macOS
+.DS_Store
+
